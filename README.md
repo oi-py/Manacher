@@ -1,0 +1,2 @@
+# manacher
+manacher's algorithm
