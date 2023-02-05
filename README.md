@@ -1,2 +1,2 @@
-# manacher
+# Manacher
 Manacher's algorithm
